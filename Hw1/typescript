@@ -1,0 +1,59 @@
+Script started on 2026-09-01 04:55:37+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="54" LINES="21"]
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mcd Hw1[27m[7mQ[27m[7m2[27m[A
+[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ cd Hw1Q2
+[?2004l
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
+[7mjavac Person.java MyMain.java[27m
+javac Person.java MyMain.java
+[?2004l
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
+[7mjava MyMain[27m
+java MyMain
+[?2004l
+People in the list:
+Ashley Bui 1001
+Esma Ali 1002
+Rowda Boru 1003
+Kayden Brown 1004
+
+Searching for ID 1002:
+Index: 1
+
+Searching for ID 1004:
+Index: 3
+
+Searching for ID 9999:
+Index: -1
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
+[7mcd ../Hw1Q3[27m
+cd ../Hw1Q3
+[?2004l
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
+[7mjavac Person.java PersonList.java MyMain.java[27m
+javac Person.java PersonList.java MyMain.java
+[?2004l
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
+[7mjava MyMain[27m
+java MyMain
+[?2004l
+People in the list:
+Ashley Bui 1001
+Esma Ali 1002
+Rowda Boru 1003
+Kayden Brown 1004
+
+Searching for ID 1002:
+Index: 1
+
+Searching for ID 1004:
+Index: 3
+
+Searching for ID 9999:
+Index: -1
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
+[7mexit[27m
+exit
+[?2004l
+exit
+
+Script done on 2026-09-01 04:56:18+00:00 [COMMAND_EXIT_CODE="0"]
