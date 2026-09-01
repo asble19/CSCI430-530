@@ -1,16 +1,8 @@
-Script started on 2026-09-01 04:55:37+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="54" LINES="21"]
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mcd Hw1[27m[7mQ[27m[7m2[27m[A
-[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ cd Hw1Q2
-[?2004l
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
-[7mjavac Person.java MyMain.java[27m
-javac Person.java MyMain.java
-[?2004l
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
-[7mjava MyMain[27m
-java MyMain
-[?2004l
-People in the list:
+Script started on 2026-09-01 05:06:53+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="54" LINES="20"]
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mcd Hw1[27m[7mQ[27m[7m2[27m[A[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ cd Hw1Q2
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  [7mjavac Person.java MyMain.java[27mjavac Person.java MyMain.java
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  [7mjava MyMain[27mjava MyMain
+[?2004lPeople in the list:
 Ashley Bui 1001
 Esma Ali 1002
 Rowda Boru 1003
@@ -24,19 +16,10 @@ Index: 3
 
 Searching for ID 9999:
 Index: -1
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  
-[7mcd ../Hw1Q3[27m
-cd ../Hw1Q3
-[?2004l
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
-[7mjavac Person.java PersonList.java MyMain.java[27m
-javac Person.java PersonList.java MyMain.java
-[?2004l
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
-[7mjava MyMain[27m
-java MyMain
-[?2004l
-People in the list:
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  [7mcd ../Hw1Q3[27mcd ../Hw1Q3
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  [7mjavac Person.java PersonList.java MyMain.java[27mjavac Person.java PersonList.java MyMain.java
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  [7mjava MyMain[27mjava MyMain
+[?2004lPeople in the list:
 Ashley Bui 1001
 Esma Ali 1002
 Rowda Boru 1003
@@ -50,10 +33,21 @@ Index: 3
 
 Searching for ID 9999:
 Index: -1
-[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  
-[7mexit[27m
-exit
-[?2004l
-exit
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  cd ..
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mpwd[27mpwd
+[?2004l/workspaces/CSCI430-530/Hw1
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mls[27mls
+[?2004l[0m[34;42mHw1Q2[0m  [34;42mHw1Q3[0m  typescript
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ [7mcd Hw1[27m[7mQ[27m[7m2[27m[A[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1 [0;36m([1;31mmain[0;36m) [0m$ cd Hw1Q2
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  ls
+[?2004lMyMain.class  Person.class  persons.txt
+MyMain.java   Person.java
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q2 [0;36m([1;31mmain[0;36m) [0m$  [7mcd ../Hw1Q3[27mcd ../Hw1Q3
+[?2004l[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  [7mls[27mls
+[?2004lMyMain.class  Person.java       persons.txt
+MyMain.java   PersonList.class
+Person.class  PersonList.java
+[?2004h[0;32m@asble19 [0m➜ [1;34m/workspaces/CSCI430-530/Hw1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$  exot[K[Kit
+[?2004lexit
 
-Script done on 2026-09-01 04:56:18+00:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2026-09-01 05:08:35+00:00 [COMMAND_EXIT_CODE="0"]
